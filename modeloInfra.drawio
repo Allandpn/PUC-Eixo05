@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-06T01:34:55.683Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="u5Cf-27gGHQ4_ObN5Knb" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-06T01:58:12.832Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="9OEyhsSHRVD-IhoxHaWl" version="24.0.1" type="github">
   <diagram name="Page-1" id="ydfIUNK_gMVmEbcDhQVD">
-    <mxGraphModel dx="4307" dy="2330" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3813" dy="2154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -613,17 +613,18 @@
         <mxCell id="yICpDW7vipynifTXF1kX-59" value="" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=default;fillColor=none;arcSize=3;glass=0;shadow=0;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="5700" y="1120" width="1140" height="1890" as="geometry" />
         </mxCell>
-        <mxCell id="yICpDW7vipynifTXF1kX-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yICpDW7vipynifTXF1kX-63" target="yICpDW7vipynifTXF1kX-67">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="yICpDW7vipynifTXF1kX-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yICpDW7vipynifTXF1kX-109" target="yICpDW7vipynifTXF1kX-67">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="7840" y="-120" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-148" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yICpDW7vipynifTXF1kX-60">
+          <mxGeometry x="-0.8669" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="yICpDW7vipynifTXF1kX-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yICpDW7vipynifTXF1kX-109" target="yICpDW7vipynifTXF1kX-69">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yICpDW7vipynifTXF1kX-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;jumpStyle=none;curved=0;" edge="1" parent="1" source="yICpDW7vipynifTXF1kX-63" target="yICpDW7vipynifTXF1kX-109">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yICpDW7vipynifTXF1kX-63" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
-          <mxGeometry x="7840" y="-160" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yICpDW7vipynifTXF1kX-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yICpDW7vipynifTXF1kX-67" target="yICpDW7vipynifTXF1kX-70">
           <mxGeometry relative="1" as="geometry" />
@@ -634,16 +635,8 @@
         <mxCell id="yICpDW7vipynifTXF1kX-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yICpDW7vipynifTXF1kX-67" target="yICpDW7vipynifTXF1kX-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yICpDW7vipynifTXF1kX-67" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=west;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="yICpDW7vipynifTXF1kX-67" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=west;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;gradientColor=default;" vertex="1" parent="1">
           <mxGeometry x="7660" y="-390" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="yICpDW7vipynifTXF1kX-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yICpDW7vipynifTXF1kX-69" target="yICpDW7vipynifTXF1kX-63">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="8280" y="-260" />
-              <mxPoint x="7880" y="-260" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="yICpDW7vipynifTXF1kX-140" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yICpDW7vipynifTXF1kX-69" target="yICpDW7vipynifTXF1kX-136">
           <mxGeometry relative="1" as="geometry" />
@@ -663,7 +656,7 @@
         <mxCell id="yICpDW7vipynifTXF1kX-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yICpDW7vipynifTXF1kX-70" target="yICpDW7vipynifTXF1kX-119">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yICpDW7vipynifTXF1kX-126" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="yICpDW7vipynifTXF1kX-70" target="yICpDW7vipynifTXF1kX-125">
+        <mxCell id="yICpDW7vipynifTXF1kX-126" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yICpDW7vipynifTXF1kX-70" target="yICpDW7vipynifTXF1kX-125">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yICpDW7vipynifTXF1kX-70" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;strokeColor=#006EAF;direction=west;fontColor=#ffffff;" vertex="1" parent="1">
@@ -672,7 +665,7 @@
         <mxCell id="yICpDW7vipynifTXF1kX-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yICpDW7vipynifTXF1kX-71" target="yICpDW7vipynifTXF1kX-118">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yICpDW7vipynifTXF1kX-134" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="yICpDW7vipynifTXF1kX-71" target="yICpDW7vipynifTXF1kX-128">
+        <mxCell id="yICpDW7vipynifTXF1kX-134" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yICpDW7vipynifTXF1kX-71" target="yICpDW7vipynifTXF1kX-128">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yICpDW7vipynifTXF1kX-71" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
@@ -681,7 +674,7 @@
         <mxCell id="yICpDW7vipynifTXF1kX-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yICpDW7vipynifTXF1kX-72" target="yICpDW7vipynifTXF1kX-116">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yICpDW7vipynifTXF1kX-135" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="yICpDW7vipynifTXF1kX-72" target="yICpDW7vipynifTXF1kX-132">
+        <mxCell id="yICpDW7vipynifTXF1kX-135" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yICpDW7vipynifTXF1kX-72" target="yICpDW7vipynifTXF1kX-132">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yICpDW7vipynifTXF1kX-72" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;strokeColor=#006EAF;direction=west;fontColor=#ffffff;" vertex="1" parent="1">
@@ -711,13 +704,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yICpDW7vipynifTXF1kX-80" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
-          <mxGeometry x="7600" y="340" width="80" height="80" as="geometry" />
+          <mxGeometry x="7400" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yICpDW7vipynifTXF1kX-81" target="yICpDW7vipynifTXF1kX-157">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yICpDW7vipynifTXF1kX-81" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="7490" y="535" width="80" height="80" as="geometry" />
+          <mxGeometry x="7290" y="535" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-177" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yICpDW7vipynifTXF1kX-82" target="yICpDW7vipynifTXF1kX-176">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yICpDW7vipynifTXF1kX-82" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="7700" y="530" width="80" height="80" as="geometry" />
+          <mxGeometry x="7500" y="530" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yICpDW7vipynifTXF1kX-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yICpDW7vipynifTXF1kX-85" target="yICpDW7vipynifTXF1kX-86">
           <mxGeometry relative="1" as="geometry" />
@@ -741,13 +740,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yICpDW7vipynifTXF1kX-90" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
-          <mxGeometry x="8290" y="325" width="80" height="80" as="geometry" />
+          <mxGeometry x="8480" y="320" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yICpDW7vipynifTXF1kX-91" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="8180" y="520" width="80" height="80" as="geometry" />
+          <mxGeometry x="8370" y="515" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yICpDW7vipynifTXF1kX-92" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="8390" y="515" width="80" height="80" as="geometry" />
+          <mxGeometry x="8580" y="510" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yICpDW7vipynifTXF1kX-93" value="&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; background-color: rgb(255, 255, 255); line-height: 18px; font-family: Calibri, Calibri_MSFontService, sans-serif; font-variant-ligatures: none !important;&quot; class=&quot;TextRun SCXW143231816 BCX0&quot; lang=&quot;PT-PT&quot; data-contrast=&quot;none&quot;&gt;&lt;/span&gt;&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; background-color: rgb(255, 255, 255); line-height: 18px; font-family: Calibri, Calibri_MSFontService, sans-serif;&quot; data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335551550&amp;quot;:2,&amp;quot;335551620&amp;quot;:2,&amp;quot;335559738&amp;quot;:0,&amp;quot;335559739&amp;quot;:0}&quot; class=&quot;EOP SCXW143231816 BCX0&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;SwitchMatrizLab1&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="7290" y="-510" width="60" height="30" as="geometry" />
@@ -762,45 +761,40 @@
           <mxGeometry x="7750" y="-310" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yICpDW7vipynifTXF1kX-97" value="&lt;b style=&quot;border-color: var(--border-color); font-family: Calibri, Calibri_MSFontService, sans-serif; font-size: 19px; background-color: rgb(255, 255, 255);&quot;&gt;SwitchFilialLab1&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="7500" y="620" width="60" height="30" as="geometry" />
+          <mxGeometry x="7210" y="515" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yICpDW7vipynifTXF1kX-98" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-family: Calibri, Calibri_MSFontService, sans-serif; font-size: 19px; background-color: rgb(255, 255, 255);&quot;&gt;SwitchFilialLab2&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="7820" y="610" width="160" height="50" as="geometry" />
+          <mxGeometry x="7710" y="580" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yICpDW7vipynifTXF1kX-99" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-family: Calibri, Calibri_MSFontService, sans-serif; font-size: 19px; background-color: rgb(255, 255, 255);&quot;&gt;SwitchFilialLab3&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="8160" y="605" width="160" height="50" as="geometry" />
+          <mxGeometry x="8240" y="570" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yICpDW7vipynifTXF1kX-100" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-family: Calibri, Calibri_MSFontService, sans-serif; font-size: 19px; background-color: rgb(255, 255, 255);&quot;&gt;SwitchFilialEsc2&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8020" y="605" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yICpDW7vipynifTXF1kX-101" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-family: Calibri, Calibri_MSFontService, sans-serif; font-size: 19px; background-color: rgb(255, 255, 255);&quot;&gt;SwitchFilialEsc1&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="7670" y="610" width="160" height="50" as="geometry" />
+          <mxGeometry x="7570" y="510" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yICpDW7vipynifTXF1kX-102" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-family: Calibri, Calibri_MSFontService, sans-serif; font-size: 19px; background-color: rgb(255, 255, 255);&quot;&gt;SwitchFilialEsc3&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="8360" y="600" width="160" height="50" as="geometry" />
+          <mxGeometry x="8550" y="595" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yICpDW7vipynifTXF1kX-103" value="&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; background-color: rgb(255, 255, 255); line-height: 18px; font-family: Calibri, Calibri_MSFontService, sans-serif;&quot; data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335551550&amp;quot;:2,&amp;quot;335551620&amp;quot;:2,&amp;quot;335559738&amp;quot;:0,&amp;quot;335559739&amp;quot;:0}&quot; class=&quot;EOP SCXW143231816 BCX0&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;RoteadorMatriz1&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="7840" y="-70" width="60" height="30" as="geometry" />
+          <mxGeometry x="7960" y="-220" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yICpDW7vipynifTXF1kX-104" value="&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; background-color: rgb(255, 255, 255); line-height: 18px; font-family: Calibri, Calibri_MSFontService, sans-serif;&quot; data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335551550&amp;quot;:2,&amp;quot;335551620&amp;quot;:2,&amp;quot;335559738&amp;quot;:0,&amp;quot;335559739&amp;quot;:0}&quot; class=&quot;EOP SCXW143231816 BCX0&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;RoteadorServidor&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="8170" y="-490" width="60" height="30" as="geometry" />
+          <mxGeometry x="8340" y="-490" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yICpDW7vipynifTXF1kX-105" value="&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; background-color: rgb(255, 255, 255); line-height: 18px; font-family: Calibri, Calibri_MSFontService, sans-serif;&quot; data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335551550&amp;quot;:2,&amp;quot;335551620&amp;quot;:2,&amp;quot;335559738&amp;quot;:0,&amp;quot;335559739&amp;quot;:0}&quot; class=&quot;EOP SCXW143231816 BCX0&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;RoteadorFilial1&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="7600" y="430" width="60" height="30" as="geometry" />
+          <mxGeometry x="7400" y="430" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yICpDW7vipynifTXF1kX-106" value="&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; background-color: rgb(255, 255, 255); line-height: 18px; font-family: Calibri, Calibri_MSFontService, sans-serif;&quot; data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335551550&amp;quot;:2,&amp;quot;335551620&amp;quot;:2,&amp;quot;335559738&amp;quot;:0,&amp;quot;335559739&amp;quot;:0}&quot; class=&quot;EOP SCXW143231816 BCX0&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;RoteadorFilial2&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="7960" y="420" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yICpDW7vipynifTXF1kX-107" value="&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; background-color: rgb(255, 255, 255); line-height: 18px; font-family: Calibri, Calibri_MSFontService, sans-serif;&quot; data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335551550&amp;quot;:2,&amp;quot;335551620&amp;quot;:2,&amp;quot;335559738&amp;quot;:0,&amp;quot;335559739&amp;quot;:0}&quot; class=&quot;EOP SCXW143231816 BCX0&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;RoteadorFilial3&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="8300" y="420" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="yICpDW7vipynifTXF1kX-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yICpDW7vipynifTXF1kX-109">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="7920" y="-120" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="8490" y="415" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yICpDW7vipynifTXF1kX-109" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
-          <mxGeometry x="8055" y="-160" width="80" height="80" as="geometry" />
+          <mxGeometry x="7950" y="-170" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yICpDW7vipynifTXF1kX-110" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
           <mxGeometry x="8830" y="820" width="40" height="40" as="geometry" />
@@ -813,9 +807,6 @@
         </mxCell>
         <mxCell id="yICpDW7vipynifTXF1kX-113" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Router&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="8880" y="825" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="yICpDW7vipynifTXF1kX-114" value="&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; background-color: rgb(255, 255, 255); line-height: 18px; font-family: Calibri, Calibri_MSFontService, sans-serif;&quot; data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335551550&amp;quot;:2,&amp;quot;335551620&amp;quot;:2,&amp;quot;335559738&amp;quot;:0,&amp;quot;335559739&amp;quot;:0}&quot; class=&quot;EOP SCXW143231816 BCX0&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;RoteadorMatriz2&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="8065" y="-70" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yICpDW7vipynifTXF1kX-116" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="7940" y="-860" width="80" height="80" as="geometry" />
@@ -876,6 +867,210 @@
         </mxCell>
         <mxCell id="yICpDW7vipynifTXF1kX-147" value="&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; background-color: rgb(255, 255, 255); line-height: 18px; font-family: Calibri, Calibri_MSFontService, sans-serif;&quot; data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335551550&amp;quot;:2,&amp;quot;335551620&amp;quot;:2,&amp;quot;335559738&amp;quot;:0,&amp;quot;335559739&amp;quot;:0}&quot; class=&quot;EOP SCXW143231816 BCX0&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Servidor AD&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="8570" y="-510" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-154" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;strokeColor=#006EAF;direction=west;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="8240" y="-590" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-155" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;strokeColor=#006EAF;direction=west;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="7660" y="-390" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-156" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="yICpDW7vipynifTXF1kX-159" source="yICpDW7vipynifTXF1kX-81">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="7310" y="1005" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-157" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="7290" y="760" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-158" value="&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; background-color: rgb(255, 255, 255); line-height: 18px; font-family: Calibri, Calibri_MSFontService, sans-serif; font-variant-ligatures: none !important;&quot; class=&quot;TextRun SCXW143231816 BCX0&quot; lang=&quot;PT-PT&quot; data-contrast=&quot;none&quot;&gt;&lt;/span&gt;&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; background-color: rgb(255, 255, 255); line-height: 18px; font-family: Calibri, Calibri_MSFontService, sans-serif;&quot; data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335551550&amp;quot;:2,&amp;quot;335551620&amp;quot;:2,&amp;quot;335559738&amp;quot;:0,&amp;quot;335559739&amp;quot;:0}&quot; class=&quot;EOP SCXW143231816 BCX0&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Host D&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="7290" y="850" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-200" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;elbow=vertical;dashPattern=12 12;" edge="1" parent="1" source="yICpDW7vipynifTXF1kX-159" target="yICpDW7vipynifTXF1kX-199">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-159" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="7190" y="735" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-160" value="&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; background-color: rgb(255, 255, 255); line-height: 18px; font-family: Calibri, Calibri_MSFontService, sans-serif; font-variant-ligatures: none !important;&quot; class=&quot;TextRun SCXW143231816 BCX0&quot; lang=&quot;PT-PT&quot; data-contrast=&quot;none&quot;&gt;&lt;/span&gt;&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; background-color: rgb(255, 255, 255); line-height: 18px; font-family: Calibri, Calibri_MSFontService, sans-serif;&quot; data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335551550&amp;quot;:2,&amp;quot;335551620&amp;quot;:2,&amp;quot;335559738&amp;quot;:0,&amp;quot;335559739&amp;quot;:0}&quot; class=&quot;EOP SCXW143231816 BCX0&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;AP 4&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="7145" y="804" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="yICpDW7vipynifTXF1kX-164">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="7880" y="609" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-163" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="yICpDW7vipynifTXF1kX-166">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="7855" y="600" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-164" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="7840" y="754" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-165" value="&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; background-color: rgb(255, 255, 255); line-height: 18px; font-family: Calibri, Calibri_MSFontService, sans-serif; font-variant-ligatures: none !important;&quot; class=&quot;TextRun SCXW143231816 BCX0&quot; lang=&quot;PT-PT&quot; data-contrast=&quot;none&quot;&gt;&lt;/span&gt;&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; background-color: rgb(255, 255, 255); line-height: 18px; font-family: Calibri, Calibri_MSFontService, sans-serif;&quot; data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335551550&amp;quot;:2,&amp;quot;335551620&amp;quot;:2,&amp;quot;335559738&amp;quot;:0,&amp;quot;335559739&amp;quot;:0}&quot; class=&quot;EOP SCXW143231816 BCX0&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Host F&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="7840" y="844" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-166" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="7740" y="725" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-167" value="&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; background-color: rgb(255, 255, 255); line-height: 18px; font-family: Calibri, Calibri_MSFontService, sans-serif; font-variant-ligatures: none !important;&quot; class=&quot;TextRun SCXW143231816 BCX0&quot; lang=&quot;PT-PT&quot; data-contrast=&quot;none&quot;&gt;&lt;/span&gt;&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; background-color: rgb(255, 255, 255); line-height: 18px; font-family: Calibri, Calibri_MSFontService, sans-serif;&quot; data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335551550&amp;quot;:2,&amp;quot;335551620&amp;quot;:2,&amp;quot;335559738&amp;quot;:0,&amp;quot;335559739&amp;quot;:0}&quot; class=&quot;EOP SCXW143231816 BCX0&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;AP 5&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="7630" y="794" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="yICpDW7vipynifTXF1kX-170">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="8415" y="595" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-169" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="yICpDW7vipynifTXF1kX-172">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="8390" y="586" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-170" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="8375" y="740" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-171" value="&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; background-color: rgb(255, 255, 255); line-height: 18px; font-family: Calibri, Calibri_MSFontService, sans-serif; font-variant-ligatures: none !important;&quot; class=&quot;TextRun SCXW143231816 BCX0&quot; lang=&quot;PT-PT&quot; data-contrast=&quot;none&quot;&gt;&lt;/span&gt;&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; background-color: rgb(255, 255, 255); line-height: 18px; font-family: Calibri, Calibri_MSFontService, sans-serif;&quot; data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335551550&amp;quot;:2,&amp;quot;335551620&amp;quot;:2,&amp;quot;335559738&amp;quot;:0,&amp;quot;335559739&amp;quot;:0}&quot; class=&quot;EOP SCXW143231816 BCX0&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Host H&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="8375" y="830" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-172" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="8290" y="720" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-173" value="&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; background-color: rgb(255, 255, 255); line-height: 18px; font-family: Calibri, Calibri_MSFontService, sans-serif; font-variant-ligatures: none !important;&quot; class=&quot;TextRun SCXW143231816 BCX0&quot; lang=&quot;PT-PT&quot; data-contrast=&quot;none&quot;&gt;&lt;/span&gt;&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; background-color: rgb(255, 255, 255); line-height: 18px; font-family: Calibri, Calibri_MSFontService, sans-serif;&quot; data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335551550&amp;quot;:2,&amp;quot;335551620&amp;quot;:2,&amp;quot;335559738&amp;quot;:0,&amp;quot;335559739&amp;quot;:0}&quot; class=&quot;EOP SCXW143231816 BCX0&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;AP 8&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="8260" y="790" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="yICpDW7vipynifTXF1kX-175">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="7540" y="610" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-175" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="7500" y="755" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-176" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="7600" y="725" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-178" value="&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; background-color: rgb(255, 255, 255); line-height: 18px; font-family: Calibri, Calibri_MSFontService, sans-serif; font-variant-ligatures: none !important;&quot; class=&quot;TextRun SCXW143231816 BCX0&quot; lang=&quot;PT-PT&quot; data-contrast=&quot;none&quot;&gt;&lt;/span&gt;&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; background-color: rgb(255, 255, 255); line-height: 18px; font-family: Calibri, Calibri_MSFontService, sans-serif;&quot; data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335551550&amp;quot;:2,&amp;quot;335551620&amp;quot;:2,&amp;quot;335559738&amp;quot;:0,&amp;quot;335559739&amp;quot;:0}&quot; class=&quot;EOP SCXW143231816 BCX0&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;AP 6&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="7710" y="794" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-179" value="&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; background-color: rgb(255, 255, 255); line-height: 18px; font-family: Calibri, Calibri_MSFontService, sans-serif; font-variant-ligatures: none !important;&quot; class=&quot;TextRun SCXW143231816 BCX0&quot; lang=&quot;PT-PT&quot; data-contrast=&quot;none&quot;&gt;&lt;/span&gt;&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; background-color: rgb(255, 255, 255); line-height: 18px; font-family: Calibri, Calibri_MSFontService, sans-serif;&quot; data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335551550&amp;quot;:2,&amp;quot;335551620&amp;quot;:2,&amp;quot;335559738&amp;quot;:0,&amp;quot;335559739&amp;quot;:0}&quot; class=&quot;EOP SCXW143231816 BCX0&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Host E&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="7500" y="850" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-183" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="yICpDW7vipynifTXF1kX-187">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="8108" y="595" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-184" value="&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; background-color: rgb(255, 255, 255); line-height: 18px; font-family: Calibri, Calibri_MSFontService, sans-serif; font-variant-ligatures: none !important;&quot; class=&quot;TextRun SCXW143231816 BCX0&quot; lang=&quot;PT-PT&quot; data-contrast=&quot;none&quot;&gt;&lt;/span&gt;&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; background-color: rgb(255, 255, 255); line-height: 18px; font-family: Calibri, Calibri_MSFontService, sans-serif;&quot; data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335551550&amp;quot;:2,&amp;quot;335551620&amp;quot;:2,&amp;quot;335559738&amp;quot;:0,&amp;quot;335559739&amp;quot;:0}&quot; class=&quot;EOP SCXW143231816 BCX0&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;AP 7&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="8180" y="790" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="yICpDW7vipynifTXF1kX-186">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="8090" y="599" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-186" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="8050" y="744" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-187" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="8150" y="720" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-188" value="&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; background-color: rgb(255, 255, 255); line-height: 18px; font-family: Calibri, Calibri_MSFontService, sans-serif; font-variant-ligatures: none !important;&quot; class=&quot;TextRun SCXW143231816 BCX0&quot; lang=&quot;PT-PT&quot; data-contrast=&quot;none&quot;&gt;&lt;/span&gt;&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; background-color: rgb(255, 255, 255); line-height: 18px; font-family: Calibri, Calibri_MSFontService, sans-serif;&quot; data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335551550&amp;quot;:2,&amp;quot;335551620&amp;quot;:2,&amp;quot;335559738&amp;quot;:0,&amp;quot;335559739&amp;quot;:0}&quot; class=&quot;EOP SCXW143231816 BCX0&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Host G&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="8050" y="839" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-189" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="yICpDW7vipynifTXF1kX-193">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="8638" y="586" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-190" value="&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; background-color: rgb(255, 255, 255); line-height: 18px; font-family: Calibri, Calibri_MSFontService, sans-serif; font-variant-ligatures: none !important;&quot; class=&quot;TextRun SCXW143231816 BCX0&quot; lang=&quot;PT-PT&quot; data-contrast=&quot;none&quot;&gt;&lt;/span&gt;&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; background-color: rgb(255, 255, 255); line-height: 18px; font-family: Calibri, Calibri_MSFontService, sans-serif;&quot; data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335551550&amp;quot;:2,&amp;quot;335551620&amp;quot;:2,&amp;quot;335559738&amp;quot;:0,&amp;quot;335559739&amp;quot;:0}&quot; class=&quot;EOP SCXW143231816 BCX0&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;AP 9&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="8730" y="775" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="yICpDW7vipynifTXF1kX-192">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="8620" y="590" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-192" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="8580" y="735" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-193" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="8680" y="710" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-194" value="&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; background-color: rgb(255, 255, 255); line-height: 18px; font-family: Calibri, Calibri_MSFontService, sans-serif; font-variant-ligatures: none !important;&quot; class=&quot;TextRun SCXW143231816 BCX0&quot; lang=&quot;PT-PT&quot; data-contrast=&quot;none&quot;&gt;&lt;/span&gt;&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; background-color: rgb(255, 255, 255); line-height: 18px; font-family: Calibri, Calibri_MSFontService, sans-serif;&quot; data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335551550&amp;quot;:2,&amp;quot;335551620&amp;quot;:2,&amp;quot;335559738&amp;quot;:0,&amp;quot;335559739&amp;quot;:0}&quot; class=&quot;EOP SCXW143231816 BCX0&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Host I&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="8580" y="830" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-195" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="8830" y="890" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-196" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Host&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="8880" y="890" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-197" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="8825" y="960" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-198" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Access Point&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="8880" y="970" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-199" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="7170" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-203" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;elbow=vertical;dashPattern=12 12;" edge="1" parent="1" target="yICpDW7vipynifTXF1kX-204">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="7644" y="804" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-204" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="7580" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-205" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;elbow=vertical;dashPattern=12 12;" edge="1" parent="1" target="yICpDW7vipynifTXF1kX-206">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="7784" y="804" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-206" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="7720" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-207" value="&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; background-color: rgb(255, 255, 255); line-height: 18px; font-family: Calibri, Calibri_MSFontService, sans-serif; font-variant-ligatures: none !important;&quot; class=&quot;TextRun SCXW143231816 BCX0&quot; lang=&quot;PT-PT&quot; data-contrast=&quot;none&quot;&gt;&lt;/span&gt;&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; background-color: rgb(255, 255, 255); line-height: 18px; font-family: Calibri, Calibri_MSFontService, sans-serif;&quot; data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335551550&amp;quot;:2,&amp;quot;335551620&amp;quot;:2,&amp;quot;335559738&amp;quot;:0,&amp;quot;335559739&amp;quot;:0}&quot; class=&quot;EOP SCXW143231816 BCX0&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Note D&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="7190" y="990" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-208" value="&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; background-color: rgb(255, 255, 255); line-height: 18px; font-family: Calibri, Calibri_MSFontService, sans-serif; font-variant-ligatures: none !important;&quot; class=&quot;TextRun SCXW143231816 BCX0&quot; lang=&quot;PT-PT&quot; data-contrast=&quot;none&quot;&gt;&lt;/span&gt;&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; background-color: rgb(255, 255, 255); line-height: 18px; font-family: Calibri, Calibri_MSFontService, sans-serif;&quot; data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335551550&amp;quot;:2,&amp;quot;335551620&amp;quot;:2,&amp;quot;335559738&amp;quot;:0,&amp;quot;335559739&amp;quot;:0}&quot; class=&quot;EOP SCXW143231816 BCX0&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Note E&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="7600" y="990" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-209" value="&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; background-color: rgb(255, 255, 255); line-height: 18px; font-family: Calibri, Calibri_MSFontService, sans-serif; font-variant-ligatures: none !important;&quot; class=&quot;TextRun SCXW143231816 BCX0&quot; lang=&quot;PT-PT&quot; data-contrast=&quot;none&quot;&gt;&lt;/span&gt;&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; background-color: rgb(255, 255, 255); line-height: 18px; font-family: Calibri, Calibri_MSFontService, sans-serif;&quot; data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335551550&amp;quot;:2,&amp;quot;335551620&amp;quot;:2,&amp;quot;335559738&amp;quot;:0,&amp;quot;335559739&amp;quot;:0}&quot; class=&quot;EOP SCXW143231816 BCX0&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Note F&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="7740" y="990" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-210" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;elbow=vertical;dashPattern=12 12;" edge="1" parent="1" target="yICpDW7vipynifTXF1kX-211">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="8194" y="800" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-211" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="8130" y="916" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-212" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;elbow=vertical;dashPattern=12 12;" edge="1" parent="1" target="yICpDW7vipynifTXF1kX-213">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="8334" y="799" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-213" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="8270" y="915" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-214" value="&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; background-color: rgb(255, 255, 255); line-height: 18px; font-family: Calibri, Calibri_MSFontService, sans-serif; font-variant-ligatures: none !important;&quot; class=&quot;TextRun SCXW143231816 BCX0&quot; lang=&quot;PT-PT&quot; data-contrast=&quot;none&quot;&gt;&lt;/span&gt;&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; background-color: rgb(255, 255, 255); line-height: 18px; font-family: Calibri, Calibri_MSFontService, sans-serif;&quot; data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335551550&amp;quot;:2,&amp;quot;335551620&amp;quot;:2,&amp;quot;335559738&amp;quot;:0,&amp;quot;335559739&amp;quot;:0}&quot; class=&quot;EOP SCXW143231816 BCX0&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Note G&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="8150" y="980" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-215" value="&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; background-color: rgb(255, 255, 255); line-height: 18px; font-family: Calibri, Calibri_MSFontService, sans-serif; font-variant-ligatures: none !important;&quot; class=&quot;TextRun SCXW143231816 BCX0&quot; lang=&quot;PT-PT&quot; data-contrast=&quot;none&quot;&gt;&lt;/span&gt;&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; background-color: rgb(255, 255, 255); line-height: 18px; font-family: Calibri, Calibri_MSFontService, sans-serif;&quot; data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335551550&amp;quot;:2,&amp;quot;335551620&amp;quot;:2,&amp;quot;335559738&amp;quot;:0,&amp;quot;335559739&amp;quot;:0}&quot; class=&quot;EOP SCXW143231816 BCX0&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Note H&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="8290" y="980" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-216" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;elbow=vertical;dashPattern=12 12;" edge="1" parent="1" target="yICpDW7vipynifTXF1kX-217">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="8724" y="790" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-217" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="8660" y="906" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yICpDW7vipynifTXF1kX-218" value="&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; background-color: rgb(255, 255, 255); line-height: 18px; font-family: Calibri, Calibri_MSFontService, sans-serif; font-variant-ligatures: none !important;&quot; class=&quot;TextRun SCXW143231816 BCX0&quot; lang=&quot;PT-PT&quot; data-contrast=&quot;none&quot;&gt;&lt;/span&gt;&lt;span style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; background-color: rgb(255, 255, 255); line-height: 18px; font-family: Calibri, Calibri_MSFontService, sans-serif;&quot; data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335551550&amp;quot;:2,&amp;quot;335551620&amp;quot;:2,&amp;quot;335559738&amp;quot;:0,&amp;quot;335559739&amp;quot;:0}&quot; class=&quot;EOP SCXW143231816 BCX0&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Note I&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="8680" y="970" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
